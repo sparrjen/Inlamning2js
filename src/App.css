@@ -1,0 +1,30 @@
+#todo-list {
+    font-size: 1.1rem;   
+    color: grey; 
+}
+
+#todo-list .name {
+    font-weight: 500;
+}
+
+#todo-list i {
+    margin-left: 1.3rem;
+    font-size: 1.1em;    
+}
+
+#todo-list .description {
+    font-size: 0.8rem;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.incomplete {
+    color: rgb(238, 96, 96);
+}
+
+.complete {
+    color: rgb(137, 221, 137);
+}
+
